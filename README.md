@@ -12,3 +12,7 @@ streamlit run app.py
 ```
 
 Try the bundled sample files first. To compare your own datasets, upload each CSV in the app. At least 20 nonblank rows are needed per tested column. Statistical significance does not prove model quality changed; validate the actual model separately. This app does not train a model.
+
+## Learn the code
+
+See [How it works](HOW_IT_WORKS.md) for the data flow, hands-on checks, limitations, and ideas for your own changes.
